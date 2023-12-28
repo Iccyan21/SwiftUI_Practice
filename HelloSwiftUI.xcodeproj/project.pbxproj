@@ -19,6 +19,10 @@
 		479D5ADE2B3BD474006D82EC /* Navigations2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5ADD2B3BD474006D82EC /* Navigations2.swift */; };
 		479D5AE02B3BD608006D82EC /* Navigations3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5ADF2B3BD608006D82EC /* Navigations3.swift */; };
 		479D5AE22B3BDDB0006D82EC /* Areat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE12B3BDDB0006D82EC /* Areat.swift */; };
+		479D5AE42B3BE329006D82EC /* MInion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE32B3BE329006D82EC /* MInion.swift */; };
+		479D5AE62B3D6A72006D82EC /* SampleLazyVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE52B3D6A72006D82EC /* SampleLazyVGrid.swift */; };
+		479D5AE82B3D6DAB006D82EC /* State_BIlling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE72B3D6DAB006D82EC /* State_BIlling.swift */; };
+		479D5AEA2B3D7075006D82EC /* ObservedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE92B3D7075006D82EC /* ObservedObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +39,10 @@
 		479D5ADD2B3BD474006D82EC /* Navigations2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations2.swift; sourceTree = "<group>"; };
 		479D5ADF2B3BD608006D82EC /* Navigations3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigations3.swift; sourceTree = "<group>"; };
 		479D5AE12B3BDDB0006D82EC /* Areat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Areat.swift; sourceTree = "<group>"; };
+		479D5AE32B3BE329006D82EC /* MInion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MInion.swift; sourceTree = "<group>"; };
+		479D5AE52B3D6A72006D82EC /* SampleLazyVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleLazyVGrid.swift; sourceTree = "<group>"; };
+		479D5AE72B3D6DAB006D82EC /* State_BIlling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_BIlling.swift; sourceTree = "<group>"; };
+		479D5AE92B3D7075006D82EC /* ObservedObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +59,8 @@
 		479D5AB72B3BC1B0006D82EC = {
 			isa = PBXGroup;
 			children = (
+				479D5AE92B3D7075006D82EC /* ObservedObject.swift */,
+				479D5AE72B3D6DAB006D82EC /* State_BIlling.swift */,
 				479D5AD82B3BD31F006D82EC /* SecondView.swift */,
 				479D5AC22B3BC1B0006D82EC /* HelloSwiftUI */,
 				479D5AC12B3BC1B0006D82EC /* Products */,
@@ -80,6 +90,8 @@
 				479D5ADD2B3BD474006D82EC /* Navigations2.swift */,
 				479D5ADF2B3BD608006D82EC /* Navigations3.swift */,
 				479D5AE12B3BDDB0006D82EC /* Areat.swift */,
+				479D5AE32B3BE329006D82EC /* MInion.swift */,
+				479D5AE52B3D6A72006D82EC /* SampleLazyVGrid.swift */,
 			);
 			path = HelloSwiftUI;
 			sourceTree = "<group>";
@@ -169,15 +181,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				479D5AE82B3D6DAB006D82EC /* State_BIlling.swift in Sources */,
+				479D5AE42B3BE329006D82EC /* MInion.swift in Sources */,
 				479D5AE02B3BD608006D82EC /* Navigations3.swift in Sources */,
 				479D5AD92B3BD31F006D82EC /* SecondView.swift in Sources */,
 				479D5AD22B3BCA3B006D82EC /* Part4.swift in Sources */,
 				479D5ADE2B3BD474006D82EC /* Navigations2.swift in Sources */,
 				479D5AC62B3BC1B0006D82EC /* ContentView.swift in Sources */,
+				479D5AE62B3D6A72006D82EC /* SampleLazyVGrid.swift in Sources */,
 				479D5AC42B3BC1B0006D82EC /* HelloSwiftUIApp.swift in Sources */,
 				479D5AD72B3BCF96006D82EC /* Saikoro.swift in Sources */,
 				479D5AE22B3BDDB0006D82EC /* Areat.swift in Sources */,
 				479D5ADB2B3BD413006D82EC /* Navigations.swift in Sources */,
+				479D5AEA2B3D7075006D82EC /* ObservedObject.swift in Sources */,
 				479D5AD42B3BCC64006D82EC /* Syouhizei.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
