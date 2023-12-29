@@ -24,6 +24,7 @@
 		479D5AE82B3D6DAB006D82EC /* State_BIlling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE72B3D6DAB006D82EC /* State_BIlling.swift */; };
 		479D5AEA2B3D7075006D82EC /* ObservedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AE92B3D7075006D82EC /* ObservedObject.swift */; };
 		479D5AFB2B3E992B006D82EC /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AFA2B3E992B006D82EC /* CounterView.swift */; };
+		479D5AFD2B3EAE82006D82EC /* QuizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479D5AFC2B3EAE82006D82EC /* QuizeApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		479D5AE72B3D6DAB006D82EC /* State_BIlling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State_BIlling.swift; sourceTree = "<group>"; };
 		479D5AE92B3D7075006D82EC /* ObservedObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservedObject.swift; sourceTree = "<group>"; };
 		479D5AFA2B3E992B006D82EC /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
+		479D5AFC2B3EAE82006D82EC /* QuizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizeApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 		479D5AC92B3BC1B1006D82EC /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				479D5AFC2B3EAE82006D82EC /* QuizeApp.swift */,
 				479D5ACA2B3BC1B1006D82EC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -192,6 +195,7 @@
 				479D5ADE2B3BD474006D82EC /* Navigations2.swift in Sources */,
 				479D5AC62B3BC1B0006D82EC /* ContentView.swift in Sources */,
 				479D5AE62B3D6A72006D82EC /* SampleLazyVGrid.swift in Sources */,
+				479D5AFD2B3EAE82006D82EC /* QuizeApp.swift in Sources */,
 				479D5AC42B3BC1B0006D82EC /* HelloSwiftUIApp.swift in Sources */,
 				479D5AD72B3BCF96006D82EC /* Saikoro.swift in Sources */,
 				479D5AE22B3BDDB0006D82EC /* Areat.swift in Sources */,
